@@ -1,0 +1,8 @@
+Binding for:
+com.twilio:video-android:1.3.0
+
+Dependencies:
+
+video-android-1.3.0.aar,    Path=C:\Users\anhuy\.gradle\caches\modules-2\files-2.1\com.twilio\video-android\1.3.0\28c133c365ffbf8bf36ffff31e1efa3d961bf277\video-android-1.3.0.aar
+	support-annotations-25.1.0.jar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar
+	relinker-1.2.2.aar,    Path=C:\Users\anhuy\.gradle\caches\modules-2\files-2.1\com.getkeepsafe.relinker\relinker\1.2.2\f5128423079867041cd4ec02a01c17782d3b4db0\relinker-1.2.2.aar

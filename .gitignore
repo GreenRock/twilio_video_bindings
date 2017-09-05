@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+/TwilioVideoDemo/AndroidBindings/Binding_VideoAndroid/obj
+/TwilioVideoDemo/AndroidBindings/Binding_VideoAndroid/bin/Debug
+/TwilioVideoDemo/bin/Debug
+/TwilioVideoDemo/obj/Debug
+
+obj
+bin
