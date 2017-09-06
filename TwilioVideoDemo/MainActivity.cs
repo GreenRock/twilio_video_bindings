@@ -27,7 +27,7 @@ using VideoView = Com.Twilio.Video.VideoView;
 
 namespace TwilioVideoDemo
 {
-    [Activity(Label = "TwilioVideoDemo", MainLauncher = true)]
+    [Activity(MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
         private static int CAMERA_MIC_PERMISSION_REQUEST_CODE = 1;
